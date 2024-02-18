@@ -1,2 +1,5 @@
 # CAT-RAG
 Team SAVIG: CAT-RAG - Conversational ASL Translator using LLMS with RAG
+
+
+Hearing impairment affects a substantial portion of the global population, with over 1.5 billion individ- uals requiring rehabilitation to address speech and hearing impairments, as highlighted by the World Health Organization. American Sign Language (ASL) stands out as one of the most widely used languages for the deaf and mute. However, the inherent differences in syntax and grammar pose challenges for those unfamiliar with ASL. Current technologies for sign-to-speech conver- sion often rely on wearable devices or hand detec- tion using technologies like the leap motion sensor. While these approaches demonstrate some efficacy, they come with high hardware requirements and limited accuracy, typically around 70%. Our proposed CAT-RAG architecture offers a five-step solution, utilizing an vision transform- ers for sign language processing. The model inte- grates gesture detection and a text-augmented RAG, generating English text for communication, with potential adaptability to other languages through language-specific LLMs.
